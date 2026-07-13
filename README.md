@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
 ## Binary Search
 |  |
@@ -30,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0552-student-attendance-record-ii) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
