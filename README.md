@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0552-student-attendance-record-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0552-student-attendance-record-ii) |
 <!---LeetCode Topics End-->
