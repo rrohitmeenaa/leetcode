@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rrohitmeenaa/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
