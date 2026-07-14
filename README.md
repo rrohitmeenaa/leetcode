@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
+| [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
+| [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
@@ -51,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
