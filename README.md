@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/rrohitmeenaa/leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/rrohitmeenaa/leetcode/tree/master/2318-number-of-distinct-roll-sequences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/rrohitmeenaa/leetcode/tree/master/2318-number-of-distinct-roll-sequences) |
 ## Enumeration
 |  |
 | ------- |
