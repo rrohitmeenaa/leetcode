@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rrohitmeenaa/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rrohitmeenaa/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rrohitmeenaa/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rrohitmeenaa/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
