@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0629-k-inverse-pairs-array](https://github.com/rrohitmeenaa/leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/rrohitmeenaa/leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/rrohitmeenaa/leetcode/tree/master/2318-number-of-distinct-roll-sequences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
