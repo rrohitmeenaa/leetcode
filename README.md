@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
+| [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rrohitmeenaa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/rrohitmeenaa/leetcode/tree/master/0629-k-inverse-pairs-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rrohitmeenaa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
