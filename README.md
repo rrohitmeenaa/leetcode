@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rrohitmeenaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2374-node-with-highest-edge-score](https://github.com/rrohitmeenaa/leetcode/tree/master/2374-node-with-highest-edge-score) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rrohitmeenaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/rrohitmeenaa/leetcode/tree/master/3731-find-missing-elements) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1140-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
