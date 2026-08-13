@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rrohitmeenaa/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rrohitmeenaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rrohitmeenaa/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -200,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/rrohitmeenaa/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rrohitmeenaa/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rrohitmeenaa/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
