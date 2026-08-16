@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
+| [0454-4sum-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rrohitmeenaa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0454-4sum-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0454-4sum-ii) |
 | [2374-node-with-highest-edge-score](https://github.com/rrohitmeenaa/leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rrohitmeenaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
