@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rrohitmeenaa/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -157,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0454-4sum-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0454-4sum-ii) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2374-node-with-highest-edge-score](https://github.com/rrohitmeenaa/leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rrohitmeenaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
