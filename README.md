@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2374-node-with-highest-edge-score](https://github.com/rrohitmeenaa/leetcode/tree/master/2374-node-with-highest-edge-score) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rrohitmeenaa/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2608-shortest-cycle-in-a-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
