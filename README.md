@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rrohitmeenaa/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/rrohitmeenaa/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rrohitmeenaa/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
+| [1927-sum-game](https://github.com/rrohitmeenaa/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rrohitmeenaa/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rrohitmeenaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/rrohitmeenaa/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/rrohitmeenaa/leetcode/tree/master/1927-sum-game) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rrohitmeenaa/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rrohitmeenaa/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/rrohitmeenaa/leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
