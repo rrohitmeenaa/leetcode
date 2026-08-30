@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rrohitmeenaa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/rrohitmeenaa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rrohitmeenaa/leetcode/tree/master/0877-stone-game) |
 | [1052-grumpy-bookstore-owner](https://github.com/rrohitmeenaa/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1140-stone-game-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/rrohitmeenaa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2826-sorting-three-groups](https://github.com/rrohitmeenaa/leetcode/tree/master/2826-sorting-three-groups) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rrohitmeenaa/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
