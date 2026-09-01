@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/rrohitmeenaa/leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/rrohitmeenaa/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -264,10 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rrohitmeenaa/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
