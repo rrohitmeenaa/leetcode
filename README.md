@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
 | [0454-4sum-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
 | [0797-all-paths-from-source-to-target](https://github.com/rrohitmeenaa/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rrohitmeenaa/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
 | [0797-all-paths-from-source-to-target](https://github.com/rrohitmeenaa/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rrohitmeenaa/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rrohitmeenaa/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
