@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rrohitmeenaa/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rrohitmeenaa/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/rrohitmeenaa/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1140-stone-game-ii) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/rrohitmeenaa/leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rrohitmeenaa/leetcode/tree/master/0070-climbing-stairs) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
+| [1137-n-th-tribonacci-number](https://github.com/rrohitmeenaa/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/rrohitmeenaa/leetcode/tree/master/2318-number-of-distinct-roll-sequences) |
 ## Enumeration
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rrohitmeenaa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rrohitmeenaa/leetcode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/rrohitmeenaa/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/rrohitmeenaa/leetcode/tree/master/1927-sum-game) |
