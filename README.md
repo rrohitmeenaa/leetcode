@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/rrohitmeenaa/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0213-house-robber-ii) |
 | [0454-4sum-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rrohitmeenaa/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rrohitmeenaa/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/rrohitmeenaa/leetcode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0552-student-attendance-record-ii) |
