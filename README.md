@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/rrohitmeenaa/leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/rrohitmeenaa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rrohitmeenaa/leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/rrohitmeenaa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/rrohitmeenaa/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rrohitmeenaa/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0454-4sum-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0454-4sum-ii) |
+| [0904-fruit-into-baskets](https://github.com/rrohitmeenaa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/rrohitmeenaa/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2374-node-with-highest-edge-score](https://github.com/rrohitmeenaa/leetcode/tree/master/2374-node-with-highest-edge-score) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/rrohitmeenaa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/rrohitmeenaa/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rrohitmeenaa/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
