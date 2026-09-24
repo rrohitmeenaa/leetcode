@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rrohitmeenaa/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rrohitmeenaa/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rrohitmeenaa/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rrohitmeenaa/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rrohitmeenaa/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rrohitmeenaa/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rrohitmeenaa/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2826-sorting-three-groups](https://github.com/rrohitmeenaa/leetcode/tree/master/2826-sorting-three-groups) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rrohitmeenaa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/rrohitmeenaa/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rrohitmeenaa/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rrohitmeenaa/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2374-node-with-highest-edge-score](https://github.com/rrohitmeenaa/leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rrohitmeenaa/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rrohitmeenaa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rrohitmeenaa/leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rrohitmeenaa/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rrohitmeenaa/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rrohitmeenaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rrohitmeenaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
