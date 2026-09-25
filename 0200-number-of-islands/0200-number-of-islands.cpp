@@ -1,36 +1,37 @@
 class Solution {
 public:
-    int n,m;
-    vector<pair<int,int>> dir = {{-1,0},{1,0},{0,-1},{0,1}};
-    void dfs(int i,int j,vector<vector<char>>& grid){
-        if(i<0 || j<0 || i>=n || j>=m || grid[i][j]=='0'){
-            return ;
-        }
-
-        grid[i][j] = '0';
-
-        for(int k = 0;k<4;k++){
-            int dx = i + dir[k].first;
-            int dy = j + dir[k].second;
-
-            dfs(dx,dy,grid);
-        }
-
-        return ;
-    }
-
     int numIslands(vector<vector<char>>& grid) {
-        n = grid.size();
-        m = grid[0].size();
-        int ans = 0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        int m = grid.size();
+        int n = grid[0].size();
+
+        queue<pair<int,int>> q;
+
+        vector<vector<int>> dir = {{-1,0},{1,0},{0,-1},{0,1}};
+
+        int cnt = 0;
+        for(int i = 0;i<m;i++){
+            for(int j = 0;j<n;j++){
                 if(grid[i][j]=='1'){
-                    ans++;
-                    dfs(i,j,grid);
+                    cnt++;
+                    q.push({i,j});
+                    grid[i][j] = '0';
+                    while(!q.empty()){
+                    int x = q.front().first;
+                    int y = q.front().second;
+                    q.pop();
+                    for(int i = 0;i<4;i++){
+                        int dx = dir[i][0] + x;
+                        int dy = dir[i][1] + y;
+
+                        if(dx>=0 && dy>=0 && dx<m && dy<n && grid[dx][dy]=='1'){
+                            q.push({dx,dy});
+                            grid[dx][dy] = '0';
+                        }
+                    }       
+                    }
                 }
             }
         }
-        return ans;
+        return cnt;
     }
 };
