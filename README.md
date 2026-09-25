@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rrohitmeenaa/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/rrohitmeenaa/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rrohitmeenaa/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/rrohitmeenaa/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/rrohitmeenaa/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rrohitmeenaa/leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/rrohitmeenaa/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/rrohitmeenaa/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rrohitmeenaa/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/rrohitmeenaa/leetcode/tree/master/0994-rotting-oranges) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/rrohitmeenaa/leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rrohitmeenaa/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
