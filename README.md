@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/rrohitmeenaa/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/rrohitmeenaa/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rrohitmeenaa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/rrohitmeenaa/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rrohitmeenaa/leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/rrohitmeenaa/leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/rrohitmeenaa/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/rrohitmeenaa/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Union-Find
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rrohitmeenaa/leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rrohitmeenaa/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rrohitmeenaa/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
