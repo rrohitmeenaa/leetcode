@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rrohitmeenaa/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/rrohitmeenaa/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rrohitmeenaa/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rrohitmeenaa/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2826-sorting-three-groups](https://github.com/rrohitmeenaa/leetcode/tree/master/2826-sorting-three-groups) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rrohitmeenaa/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/rrohitmeenaa/leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1406-stone-game-iii](https://github.com/rrohitmeenaa/leetcode/tree/master/1406-stone-game-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rrohitmeenaa/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rrohitmeenaa/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/rrohitmeenaa/leetcode/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2826-sorting-three-groups](https://github.com/rrohitmeenaa/leetcode/tree/master/2826-sorting-three-groups) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rrohitmeenaa/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/rrohitmeenaa/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rrohitmeenaa/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/1254-number-of-closed-islands) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rrohitmeenaa/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0020-valid-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rrohitmeenaa/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
