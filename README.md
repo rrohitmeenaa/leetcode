@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rrohitmeenaa/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2454-next-greater-element-iv](https://github.com/rrohitmeenaa/leetcode/tree/master/2454-next-greater-element-iv) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rrohitmeenaa/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/rrohitmeenaa/leetcode/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rrohitmeenaa/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Directed Acyclic Graph
 |  |
