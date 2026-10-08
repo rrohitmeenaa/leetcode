@@ -1,28 +1,30 @@
-// we have to solve this problem using stack
 class Solution {
 public:
     bool isValid(string s) {
         stack<char> st;
-        int n = s.length();
-
-        for(int i = 0;i<n;i++){
-            if(s[i]=='(' || s[i]=='{' || s[i]=='['){
-                st.push(s[i]);
+        
+        for(char c : s){
+            if(c=='(' || c=='{' || c=='['){
+                st.push(c);
             }
             else{
-                if(!st.empty() && ((s[i]==')' && st.top()=='(') || (s[i]=='}' && st.top()=='{') || (s[i]==']' && st.top()=='['))){
-                    st.pop();
-                }
-                else{
+                if(st.empty()){
                     return false;
                 }
+                char top = st.top();
+                st.pop();
 
-
+                if(c==')' && top!='('){
+                    return false;
+                }
+                if(c=='}' && top!='{'){
+                    return false;
+                }
+                if(c==']' && top!='['){
+                    return false;
+                }
             }
         }
-        if(st.empty()){
-            return true;
-        }
-        return false;
+        return st.empty();
     }
 };
