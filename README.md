@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rrohitmeenaa/leetcode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/rrohitmeenaa/leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/rrohitmeenaa/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/rrohitmeenaa/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rrohitmeenaa/leetcode/tree/master/0200-number-of-islands) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rrohitmeenaa/leetcode/tree/master/0056-merge-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/rrohitmeenaa/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rrohitmeenaa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/rrohitmeenaa/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/rrohitmeenaa/leetcode/tree/master/0354-russian-doll-envelopes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rrohitmeenaa/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
