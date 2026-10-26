@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rrohitmeenaa/leetcode/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/rrohitmeenaa/leetcode/tree/master/0223-rectangle-area) |
 | [0486-predict-the-winner](https://github.com/rrohitmeenaa/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rrohitmeenaa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/rrohitmeenaa/leetcode/tree/master/0836-rectangle-overlap) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/rrohitmeenaa/leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/rrohitmeenaa/leetcode/tree/master/0836-rectangle-overlap) |
 ## Meet in the Middle
 |  |
